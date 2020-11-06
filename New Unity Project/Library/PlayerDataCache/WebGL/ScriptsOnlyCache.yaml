@@ -7,7 +7,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    "Assets/\u5834\u666F/3_\u706B\u7130.unity":
+    "Assets/\u5834\u666F/4_\u9583\u96FB.unity":
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -28,8 +28,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
-    - Class: 74
-      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -37,8 +35,6 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
-      Script: {instanceID: 0}
-    - Class: 111
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -479,5 +475,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - "Assets/\u5834\u666F/3_\u706B\u7130.unity"
-  playerPath: C:/Users/User/Desktop/Unity_HW_ParticleSystem/Web
+  - "Assets/\u5834\u666F/4_\u9583\u96FB.unity"
+  playerPath: C:/Users/User/Desktop/Unity_HW_ParticleSystem/web2
